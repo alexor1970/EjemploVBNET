@@ -1,6 +1,7 @@
 ﻿Public Class LINQtoObjects
 
     Private Sub btnSalir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSalir.Click
+        Messagebox("Se va a cerrar la aplicaciòn!")
         Me.Close()
     End Sub
 
