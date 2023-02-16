@@ -1,0 +1,10 @@
+D:\VBNET_Ejercicios\EjemploLINQ\bin\Debug\EjemploLINQ.exe
+D:\VBNET_Ejercicios\EjemploLINQ\bin\Debug\EjemploLINQ.pdb
+D:\VBNET_Ejercicios\EjemploLINQ\bin\Debug\EjemploLINQ.xml
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\ResolveAssemblyReference.cache
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\EjemploLINQ.LINQtoObjects.resources
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\EjemploLINQ.Resources.resources
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\EjemploLINQ.vbproj.GenerateResource.Cache
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\EjemploLINQ.exe
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\EjemploLINQ.xml
+D:\VBNET_Ejercicios\EjemploLINQ\obj\Debug\EjemploLINQ.pdb
